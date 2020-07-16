@@ -604,7 +604,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer {
-  padding: 75px 0;
+  padding-top: 75px;
   background-color: #000000;
 }
 
